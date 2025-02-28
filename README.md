@@ -7,13 +7,14 @@
 
 ## Tools and Technologies
 
-![C](https://img.shields.io/badge/-C-555?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/C%23-282C34?style=for-the-badge&logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-282C34?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![MySQL](https://img.shields.io/badge/MySQL-282C34?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ## Currently Learning
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-282C34?style=for-the-badge&logo=java&logoColor=007396)
+![.NET](https://img.shields.io/badge/.NET-282C34?style=for-the-badge&logo=dotnet&logoColor=512BD4)
