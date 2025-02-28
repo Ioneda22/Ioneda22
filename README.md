@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/C%23-6A5ACD?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-6A5ACD?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/MySQL-6A5ACD?style=for-the-badge)
-![Javascript](https://img.shields.io/badge/HTML5-6A5ACD?style=for-the-badge)
+![JAVASCRIPT](https://img.shields.io/badge/HTML5-6A5ACD?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-6A5ACD?style=for-the-badge)
 
 ## Currently Learning
