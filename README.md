@@ -18,8 +18,3 @@
 
 ![Java](https://img.shields.io/badge/Java-9370DB?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-9370DB?style=for-the-badge)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:brunohideoioneda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/bruno-i-6838882b8/)
