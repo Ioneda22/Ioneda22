@@ -7,7 +7,7 @@
 
 ## Tools and Technologies
 
-![C](https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C]
 ![C#](https://img.shields.io/badge/C%23-282C34?style=for-the-badge&logo=csharp&logoColor=239120)
 ![.NET](https://img.shields.io/badge/.NET-282C34?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![MySQL](https://img.shields.io/badge/MySQL-282C34?style=for-the-badge&logo=mysql&logoColor=4479A1)
