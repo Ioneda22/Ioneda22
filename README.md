@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stacks
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ioneda22&theme=dark&hide_border=true" alt="GitHub Streak" />
