@@ -1,14 +1,16 @@
+<div align="center">
+
 # Hi there, I'm Bruno Ioneda! 👋
 
-**Software Development Intern at Thales Group | Information Systems Student at USP**
+### Software Development Intern at Thales Group | Information Systems Student at USP
 
 ---
 
 ### Professional Experience
 
-* **Thales Group (Current):** Developing automation scripts in Python and optimizing internal processes using PostgreSQL.
-
-* **BTG Pactual (Summer Job):** Worked on data infrastructure modernization for the Credit Risk area, modeling databases and developing backend services with C# (.NET).
+**Thales Group** • Software Development Intern *(Current)*
+<br />
+**BTG Pactual** • Backend Development Summer Intern
 
 ---
 
@@ -27,6 +29,7 @@
 <br />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
 <br />
 
@@ -48,21 +51,22 @@
 
 ### Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-i-6838882b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a>
-  <a href="mailto:brunohideoioneda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/bruno-i-6838882b8/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+</a>
+<a href="mailto:brunohideoioneda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+</a>
 
 ---
 
 ### Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ioneda22&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ioneda22&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ioneda22&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Langs" />
+
+<br />
+<br />
+
+**👇 Check out my pinned projects below!**
+
 </div>
