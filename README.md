@@ -1,28 +1,25 @@
-<div align="center">
+<div align="left">
 
 <h1> Hi, I'm Bruno Ioneda 👋</h1>
-
 
 ### About me
 
 I am a backend developer bridging the gap between theoretical computer science and industrial application. Currently completing my degree in Information Systems at **USP**, I have gained practical experience developing high-performance software for large-scale environments.
 
-* **Focus:** Backend Architecture, API Development, and Database Optimization.
-* **Experience:** Currently at @ThalesGroup.
-* **Methodology:** Strong adherence to Clean Code, SOLID principles, and algorithmic efficiency.
+**Focus:** Backend Architecture, API Development, and Database Optimization.
 
-<br/>
+**Experience:** Currently at @ThalesGroup.
 
 ---
 
 ### Stacks
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frameworks** | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Data** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
