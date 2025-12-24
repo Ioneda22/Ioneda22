@@ -8,8 +8,6 @@ I am a backend developer bridging the gap between theoretical computer science a
 
 **Focus:** Backend Architecture, API Development, and Database Optimization.
 
-**Experience:** Currently at @ThalesGroup.
-
 ---
 
 ### Stacks
