@@ -4,9 +4,12 @@
 
 ### About me
 
-I am a backend developer bridging the gap between theoretical computer science and industrial application. Currently completing my degree in Information Systems at **USP**, I have gained practical experience developing high-performance software for large-scale environments.
+Currently a Software dev, but exploring other fields too :)
 
-**Focus:** Backend Architecture, API Development, and Database Optimization.
+I like to:
+  - Study Math, ML and AI dedicated fields 
+  - Design algorithms and architectures
+  - Practice on leetcode
 
 ---
 
