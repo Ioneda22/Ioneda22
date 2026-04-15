@@ -26,8 +26,6 @@ I like to:
 
 ### Connect with me
 
-### Connect with me
-
 <a href="https://www.linkedin.com/in/bruno-i-6838882b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
 </a>
